@@ -1,0 +1,2 @@
+# bubi
+gyakorlas
